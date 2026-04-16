@@ -233,6 +233,3 @@ Top-performing teams will receive:
 | 📝 Register Now | *[Registration Form Link]* |
 | 💬 Join the Community | *[Discord / Telegram Link]* |
 
----
-
-*Organized by Stellar Philippines · Powered by the Stellar Community*
