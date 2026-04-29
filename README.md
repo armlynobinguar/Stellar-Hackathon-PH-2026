@@ -1,6 +1,6 @@
 # 🌟 Stellar Philippines Hackathon 2026
 
-> 🗓️ **May 1–8, 2026** · 🌐 **100% Online** · 👥 **Individuals & Teams Welcome**
+> 🗓️ **May 18–24, 2026** · 🌐 **100% Online** · 👥 **Individuals & Teams Welcome**
 
 A 7-day online hackathon bringing together developers, designers, and founders to build real-world financial solutions on the Stellar blockchain — and make money work better for every Filipino.
 
