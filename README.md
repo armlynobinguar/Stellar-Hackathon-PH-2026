@@ -97,7 +97,7 @@ Build solutions that improve how money **moves**, **grows**, and is **accessed**
 
 ## 🧪 What to Submit
 
-Submit the following by **May 7:**
+Submit the following by **May 23:**
 
 - [ ] **GitHub Repository** — Clean, documented codebase with complete README
 - [ ] **Demo Video** — 2–3 minutes showing your working product
