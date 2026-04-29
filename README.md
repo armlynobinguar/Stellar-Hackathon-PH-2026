@@ -50,12 +50,12 @@ Build solutions that improve how money **moves**, **grows**, and is **accessed**
 
 | Date | Milestone |
 |---|---|
-| 📍 May 1 | **Launch Day** — Opening session, Intro to Stellar, Builder Session, Team Formation, Rise In Registration |
-| 💻 May 2–3 | **Build Phase I** — Start building, async mentor support |
-| ✅ May 4 | **Checkpoint 1** — Submit idea, problem statement & proposed solution |
-| 🚀 May 5–6 | **Build Phase II** — Continue development, optional office hours |
-| 🔍 May 6 | **Checkpoint 2** — MVP progress review & early demo |
-| 🎤 May 7–8 | **Final Demo Day** — Submit project, live pitch (3–5 mins), winners announced |
+| 📍 May 18 | **Launch Day** — Opening session, Intro to Stellar, Builder Session, Team Formation, Rise In Registration |
+| 💻 May 19 | **Build Phase I** — Start building, async mentor support |
+| ✅ May 20 | **Checkpoint 1** — Submit idea, problem statement & proposed solution |
+| 🚀 May 21 | **Build Phase II** — Continue development, optional office hours |
+| 🔍 May 22-23 | **Checkpoint 2** — MVP progress review & early demo |
+| 🎤 May 24 | **Final Demo Day** — Submit project, live pitch (3–5 mins), winners announced |
 
 > ⚠️ Registration on the **Rise In Platform** is required to officially join. Submit your project name, problem statement, and team members on Launch Day.
 
