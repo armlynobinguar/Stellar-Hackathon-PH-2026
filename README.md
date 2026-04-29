@@ -8,7 +8,7 @@ A 7-day online hackathon bringing together developers, designers, and founders t
 
 ## 🧭 What Is This?
 
-The **Stellar Philippines Hackathon 2026** is a builder-first event designed to onboard and empower the next generation of Filipino fintech innovators. Over 7 days, participants will ideate, build, and pitch MVPs that tackle real financial challenges — from remittances and financial inclusion to stablecoins and MSME tools.
+The **Stellar Philippines Hackathon 2026** is a builder-first event designed to onboard and empower the next generation of Filipino fintech innovators. Over 6 days, participants will ideate, build, and pitch MVPs that tackle real financial challenges — from remittances and financial inclusion to stablecoins and MSME tools.
 
 Whether you're a seasoned Web3 developer or exploring blockchain for the first time, this hackathon is your launchpad.
 
