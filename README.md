@@ -1,4 +1,4 @@
-# 🌟 Stellar Philippines Hackathon 2026
+# Stellar Philippines Hackathon 2026
 
 > 🗓️ **May 18–24, 2026** · 🌐 **100% Online** · 👥 **Individuals & Teams Welcome**
 
