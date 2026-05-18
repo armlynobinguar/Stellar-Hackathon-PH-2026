@@ -54,8 +54,9 @@ Build solutions that improve how money **moves**, **grows**, and is **accessed**
 | 💻 May 19 | **Build Phase I** — Start building, async mentor support |
 | ✅ May 20 | **Checkpoint 1** — Submit idea, problem statement & proposed solution |
 | 🚀 May 21 | **Build Phase II** — Continue development, optional office hours |
-| 🔍 May 22-23 | **Checkpoint 2** — MVP progress review & early demo |
-| 🎤 May 24 | **Final Demo Day** — Submit project, live pitch (3–5 mins), winners announced |
+| 🔍 May 22 | **Demo Day Submission** — Submission for demo day |
+| 🔍 May 23 | **Presentation Day** — Presentation |
+
 
 > ⚠️ Registration on the **Rise In Platform** is required to officially join. Submit your project name, problem statement, and team members on Launch Day.
 
